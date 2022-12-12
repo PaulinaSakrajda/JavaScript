@@ -1,0 +1,30 @@
+.background-lightblue {
+  background-color: rgb(202, 229, 238);
+}
+
+.flexbox-container {
+  display: flex;
+  justify-content: center;
+}
+
+.item:hover {
+  cursor: pointer;
+  background-color: rgb(250, 227, 241);
+}
+
+.invisible {
+  display: none;
+}
+.display-1 {
+  font-family: lora;
+}
+.foto {
+    max-width: 100%;
+    height: auto;
+  width: 400px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
